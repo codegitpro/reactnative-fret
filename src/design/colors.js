@@ -1,0 +1,10 @@
+export const playerBackground = "#e9f2f7";
+export const PrimaryBlue = "#2d90a5";
+export const PrimaryGold = "#9e8844";
+export const Danger = "#9E444D";
+export const fretboardBackground = "#e6d9b9";
+export const StoreDark = "#5C7996";
+export const StoreLight = "#D8E3EE";
+export const LibraryLight = "#F9F7F2";
+export const LibraryDark = "#9E8844";
+export const BorderColor = "#cccccc";
